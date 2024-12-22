@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "waalqrIuhHDhAstXncUDCfAKNFUSfErEMaCzlBPDJZ4=",
+  "Source": "DotnetCrud",
+  "BasePath": "_content/DotnetCrud",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
